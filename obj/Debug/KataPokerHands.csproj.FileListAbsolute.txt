@@ -1,0 +1,5 @@
+c:\users\julien\documents\visual studio 2013\Projects\KataPokerHands\KataPokerHands\obj\Debug\KataPokerHands.csprojResolveAssemblyReference.cache
+c:\users\julien\documents\visual studio 2013\Projects\KataPokerHands\KataPokerHands\bin\Debug\KataPokerHands.dll
+c:\users\julien\documents\visual studio 2013\Projects\KataPokerHands\KataPokerHands\bin\Debug\KataPokerHands.pdb
+c:\users\julien\documents\visual studio 2013\Projects\KataPokerHands\KataPokerHands\obj\Debug\KataPokerHands.dll
+c:\users\julien\documents\visual studio 2013\Projects\KataPokerHands\KataPokerHands\obj\Debug\KataPokerHands.pdb
